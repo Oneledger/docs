@@ -32,7 +32,7 @@ The documentation corresponding contains details for the RPC - HTTP, WS endpoint
 | chainId      | `4216137055`                                  |
 | Gas Token    | `OLT Token` ([For more...](gas-token)) |
 | RPC          | `https://frankenstein-rpc.oneledger.network` |
-| Websocket    | `wss://frankenstein-rpc.oneledger.network` |
+| Websocket    | `wss://frankenstein-ws.oneledger.network` |
 | Block Explorer |[`https://frankenstein-explorer.oneledger.network`](https://frankenstein-explorer.oneledger.network)|
 
 :::important
@@ -54,7 +54,7 @@ The documentation corresponding contains details for the RPC - HTTP, WS endpoint
 | chainId      | `311752642`                                  |
 | Gas Token    | `OLT Token` ([For more...](gas-token)) |
 | RPC          | `https://mainnet-rpc.oneledger.network` |
-| Websocket    | `wss://mainnet-rpc.oneledger.network` |
+| Websocket    | `wss://mainnet-ws.oneledger.network` |
 | Block Explorer | [`https://mainnet-explorer.oneledger.network`](https://mainnet-explorer.oneledger.network)|
 
 :::important
