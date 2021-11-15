@@ -37,7 +37,7 @@ Remeber to store a **password** in secret place!!!
 
 ## Pre-requisites
 
-- Should be completed the validator node deployment [setup](/docs/develop/network-details/full-node-deployment)
+- Should be completed the fullnode deployment [setup](/docs/develop/network-details/full-node-deployment)
 
 ### Instructions
 
