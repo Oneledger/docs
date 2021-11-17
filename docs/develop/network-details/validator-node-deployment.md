@@ -57,7 +57,7 @@ Remeber to store a **password** in secret place!!!
 
 - Apply staking command to become a validator
 
-  `docker-compose exec olfullnode sh -c "olclient delegation stake --amount 500000 --address REPLACE_YOUR_STAKEADDRESS_HERE_WITHOUT_0lt_PREFIX`
+  `docker-compose exec olfullnode sh -c "olclient delegation stake --amount 500000 --address REPLACE_YOUR_STAKEADDRESS_HERE_WITHOUT_0lt_PREFIX"`
 
 - **Congratulations!** Now you became a validator, you could check the status by this command
 
