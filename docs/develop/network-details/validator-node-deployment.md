@@ -43,7 +43,9 @@ Remeber to store a **password** in secret place!!!
 
 - Create an account in the secure wallet
 
-  `docker-compose exec olfullnode sh -c "olclient account add --name "your preferred name for memorisation"`
+  `docker-compose exec olfullnode sh -c "olclient account add --name your_preferred_name_for_memorisation"`
+  
+  (Note: It will prompt for password please enter)
 
 - Run this command to get your node secure wallet stake address
 
