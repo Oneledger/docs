@@ -59,6 +59,12 @@ const config = {
             label: 'Bridge',
             activeBasePath: 'docs/bridge',
           },
+          {
+            to: 'docs/elp/getting-started',
+            position: 'left',
+            label: 'ELP',
+            activeBasePath: 'docs/elp',
+          },
           // {
           //   to: 'docs/dex/getting-started',
           //   position: 'left',

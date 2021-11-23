@@ -94,6 +94,11 @@ const sidebars = {
       ],
     },
   ],
+  elp: [
+    'elp/getting-started',
+    'elp/tutorial',
+    'elp/supported-pools',
+  ],
   // dex: [
   //   'dex/getting-started',
   //   'dex/architecture',

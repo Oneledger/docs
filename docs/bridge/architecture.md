@@ -12,9 +12,14 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Syndicate bridge
 
-Syndicate is a blockchain application that provides a transition of tokens between EVM chains. Our team hardworking work on implementaion of Nexus bridge to obtain a transition between multiple chains at once.
+**URL**: https://syndicate-bridge.oneledger.network
+
+Syndicate bridge is a blockchain application that provides a transition of tokens between EVM chains. Our team hardworking work on implementaion of Nexus bridge to obtain a transition between multiple chains at once.
 
 Architecturally, the beauty of Syndicate bridge is its simple, straightforward design which features a fast, cheap transactions for the token transfering between EVM chains.
+
+### Tutorial
+* Bridge interaction :movie_camera: [Your first Syndicate OLT](https://www.youtube.com/watch?v=i8dzjRESejA&ab_channel=OneLedgerTechnologyInc.)
 
 ### Comparison chart between another bridge implementations (with Ethereum)
 
