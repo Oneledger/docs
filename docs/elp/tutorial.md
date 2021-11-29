@@ -66,4 +66,4 @@ with **sOLT** and **USDT** tokens
 
 ### Video
 
-* Providing a liquidity to ELP :movie_camera: [Your first sOLT-USDT pair with ELP](#)
+* Providing a liquidity to ELP :movie_camera: [Your first sOLT-USDT pair with ELP](https://www.youtube.com/watch?v=kNI7olz8Olw&ab_channel=OneLedgerTechnologyInc.)
