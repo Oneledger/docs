@@ -37,6 +37,6 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <img src={useBaseUrl("img/delegation/onewallet-delegation-rewards.png")} /><br/><br/>
 
-### Video
+### Video :movie_camera:
 
 * Delegation walkthrough in [onewallet](https://www.youtube.com/watch?v=Ss0fAgcn7rE&t=2s)
