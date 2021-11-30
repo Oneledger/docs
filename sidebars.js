@@ -38,7 +38,6 @@ const sidebars = {
       label: 'Staking',
       items: [
         'develop/staking/delegation-app',
-        'develop/staking/tutorial',
       ],
     },
     {
