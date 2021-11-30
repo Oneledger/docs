@@ -34,6 +34,14 @@ const sidebars = {
       ],
     },
     {
+      type: 'category',
+      label: 'Staking',
+      items: [
+        'develop/staking/delegation-app',
+        'develop/staking/tutorial',
+      ],
+    },
+    {
       type: "category",
       label: "Tools",
       items: [
