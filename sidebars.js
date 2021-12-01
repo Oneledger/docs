@@ -57,17 +57,20 @@ const sidebars = {
       items: [
         {
           type: "category",
-          label: "Metamask",
+          label: "OneWallet",
+          items: [
+            "develop/Onewallet/hello",
+            "develop/Onewallet/restore-onewallet",
+          ],
+        },
+        {
+          type: "category",
+          label: "MetaMask",
           items: [
             "develop/metamask/hello",
             "develop/metamask/config-oneledger-on-metamask",
             "develop/metamask/multiple-accounts",
           ],
-        },
-        {
-          type: "link",
-          label: "OneWallet",
-          href: "https://www.youtube.com/watch?v=vdKtFhL1Kco&ab_channel=OneLedgerTechnologyInc.",
         },
       ],
     },
