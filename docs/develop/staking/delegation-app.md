@@ -11,7 +11,7 @@ image: https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/l
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-Start staking in Delegation App via Onewallet and earn rewards immediately with **15 - 20% APY** (estimated). You can start instant delegation and undelegation with **no mininum amount** , **no lock period** and a chance to reinvest your rewards.
+Start staking in Delegation App via Onewallet and earn rewards immediately with **15 - 20% APY** (estimated). You can make instant delegation and undelegation with **no mininum amount** , **no lock period** and a chance to reinvest your rewards.
 
 ## How to Delegate via Onewallet
 
