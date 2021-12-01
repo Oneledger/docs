@@ -29,13 +29,13 @@ Start staking in Delegation App via Onewallet and earn rewards immediately with 
 
 <img src={useBaseUrl("img/delegation/onewallet-delegation-page.png")} /><br/><br/>
 
-5. Click on '+' to delegate OLT.<br/><br/>
-   Click on '-' to undelegate OLT.<br/><br/>
+5. Click on **'+'** to delegate OLT.<br/><br/>
+   Click on **'-'** to undelegate OLT.<br/><br/>
 
 <img src={useBaseUrl("img/delegation/onewallet-delegation-account.png")} /><br/><br/>
 
-6. Click on '+' to re-invest rewards.<br/><br/>
-   Click on '-' to withdraw rewards.<br/><br/>
+6. Click on **'+'** to re-invest rewards.<br/><br/>
+   Click on **'-'** to withdraw rewards.<br/><br/>
 
 <img src={useBaseUrl("img/delegation/onewallet-delegation-rewards.png")} /><br/><br/>
 
