@@ -1,7 +1,7 @@
 ---
 id: hello
-title: Onewallet
-sidebar_label: Hello Onewallet
+title: OneWallet
+sidebar_label: Hello OneWallet
 description: Build your next blockchain app with OneLedger.
 keywords:
   - docs
@@ -12,13 +12,15 @@ image: https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/l
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-Oneledgerians can hold OLT with our safe and secured **Onewallet**, You can easily send OLT to others and transfer between your oneledger accounts. Onewallet is also enabled with Live Apps feature where you can access our oneledger products. Why wait? create one now.
+Oneledgerians can hold OLT with our safe and secured **OneWallet**, You can easily send OLT to others and transfer between your oneledger accounts. OneWallet is also enabled with Live Apps feature where you can access our oneledger products. Why wait? create one now.
 
-## How to create Onewallet?
+**URL**: https://chrome.google.com/webstore/detail/onewallet-kratos-mainnet/bbmdccojdbpcpmoadenplnoncfcijgkn?hl=en
 
-### Step 1. Install Onewallet on your browser
+## How to create OneWallet?
 
-1. Currently onewallet supports chrome browser extension. From your chrome browser search for **Kratos onewallet extension**.<br/><br/>
+### Step 1. Install OneWallet on your browser
+
+1. Currently OneWallet supports chrome browser extension. From your chrome browser search for **Kratos onewallet extension**.<br/><br/>
 
 <img src={useBaseUrl("img/onewallet/onewallet-extension.png")} /><br/><br/>
 
@@ -30,11 +32,11 @@ Oneledgerians can hold OLT with our safe and secured **Onewallet**, You can easi
 
 <img src={useBaseUrl("img/onewallet/onewallet-add-extension.png")} /><br/><br/>
 
-4. Click **Onewallet** icon on top right corner of chrome browser.<br/><br/>
+4. Click **OneWallet** icon on top right corner of chrome browser.<br/><br/>
 
 <img src={useBaseUrl("img/onewallet/select-onewallet.png")} /><br/><br/>
 
-You have successfully installed **Onewallet** extension!<br/><br/>
+You have successfully installed **OneWallet** extension!<br/><br/>
 
 ### Step 2. Create an account
 
@@ -56,8 +58,8 @@ pass phrase words are used to restore your account please remember to store in s
 
 <img src={useBaseUrl("img/onewallet/onewallet-homepage.png")} /><br/><br/>
 
-4. Give account name of your choice and click enter, it will prompt for password please enter your onewallet password.<br/><br/>
+4. Give account name of your choice and click enter, it will prompt for password please enter your OneWallet password.<br/><br/>
 
 <img src={useBaseUrl("img/onewallet/account.png")} /><br/><br/>
 
-**Congratulations!** You have successfully created your Onewallet account. You can create multiple accounts.
+**Congratulations!** You have successfully created your OneWallet account. You can create multiple accounts.

@@ -57,7 +57,7 @@ const sidebars = {
       items: [
         {
           type: "category",
-          label: "Onewallet",
+          label: "OneWallet",
           items: [
             "develop/Onewallet/hello",
             "develop/Onewallet/restore-onewallet",
@@ -65,7 +65,7 @@ const sidebars = {
         },
         {
           type: "category",
-          label: "Metamask",
+          label: "MetaMask",
           items: [
             "develop/metamask/hello",
             "develop/metamask/config-oneledger-on-metamask",
