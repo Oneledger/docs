@@ -1,7 +1,6 @@
 ---
-id: hello
-title: What is BOLOS?
-sidebar_label: Bolos Oneledger App Install
+id: bolos
+title: Ledger Nano setup (BOLOS)
 description: Build your next blockchain app with OneLedger.
 keywords:
   - docs
@@ -11,6 +10,8 @@ image: https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/l
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
+
+## What is BOLOS?
 
 The **Bitcoin Open Ledger Operating System (BOLOS)** is Ledger platform allowing developers to create pluggable applications on their Hardware Wallets. It is the way of turning Bitcoin Hardware Wallets into Personal Security Devices — users can review and install third party applications that will add new privacy features on top of their own shared set of cryptographic material, without exposing that material.
 

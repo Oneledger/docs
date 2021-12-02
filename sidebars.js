@@ -44,13 +44,7 @@ const sidebars = {
       type: "category",
       label: "Tools",
       items: [
-        {
-          type: "category",
-          label: "Bolos",
-          items: [
-            "develop/bolos/hello",
-          ],
-        },
+        'develop/bolos',
         {
           type: "link",
           label: "Frankenstein Faucet",
