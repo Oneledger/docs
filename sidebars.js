@@ -44,6 +44,7 @@ const sidebars = {
       type: "category",
       label: "Tools",
       items: [
+        'develop/bolos',
         {
           type: "link",
           label: "Frankenstein Faucet",
