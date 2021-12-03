@@ -45,11 +45,7 @@ const sidebars = {
       label: "Tools",
       items: [
         'develop/bolos',
-        {
-          type: "link",
-          label: "Frankenstein Faucet",
-          href: "https://frankenstein-faucet.oneledger.network",
-        },
+        'develop/faucet',
       ],
     },
     {
