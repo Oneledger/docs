@@ -25,9 +25,14 @@ In order to view the flow of funds in your accounts, on the OneLedger Network, y
 }>
 
 <TabItem value="frankenstein">
-To add OneLedger's Frankenstein-Testnet, click on the Network selection dropdown and then click on Custom RPC.
 
-<img src={useBaseUrl("img/metamask/select-network.png")} />
+:::warning
+This is a Testnet network, don't send your mainnet OLT from exchanges!!!
+:::<br/><br/>
+
+To add OneLedger's Frankenstein-Testnet, click on the Network selection dropdown and then click on Custom RPC.<br/><br/>
+
+<img src={useBaseUrl("img/metamask/select-network.png")} /><br/><br/>
 
 It will open up a form with 2 tabs on the top, Settings and Info. In the Settings tab you can add the URL `https://frankenstein-rpc.oneledger.network`.
 
@@ -37,9 +42,10 @@ Once you’ve added the URL in the New Network field, click on Save. You will be
 </TabItem>
 
 <TabItem value="oneledger">
-To add OneLedger’s Mainnet, click on the Network selection dropdown and then click on Custom RPC. 
 
-<img src={useBaseUrl("img/metamask/select-network.png")} />
+To add OneLedger’s Mainnet, click on the Network selection dropdown and then click on Custom RPC.<br/><br/>
+
+<img src={useBaseUrl("img/metamask/select-network.png")} /><br/><br/>
 
 It will open up a form with 2 tabs on the top, Settings and Info. In the Settings tab you can add `OneLedger Mainnet` in the Network Name field, URL `https://mainnet-rpc.oneledger.network` in the New RPC URL field, `311752642` in Chain ID field, `OLT` in Currency Symbol field and `https://mainnet-explorer.oneledger.network` in Block Explorer URL field.
 
