@@ -64,7 +64,4 @@ While DeFi activity presents significant reward opportunities, there are several
 
 ## Redeeming tokens from the Liquidity Pool
 
-Once the user has decided to reduce or discontinue LP activity, all tokens (sOLT and USDT) can easily be redeemed from the pool using the SLP tokens they received upon depositing funds. The user needs only to connect their wallet to the ELP page or Uniswap page, select the amount they wish to withdraw from the pool and execute the transaction. Details of how to withdraw can be found in the [tutorial video](https://www.youtube.com/watch?v=kNI7olz8Olw). The tokens will again appear in the user’s Ethereum wallet and, in the case of sOLT, can then be converted back to OLT using the Syndicate Bridge.<br/><br/>
-
-### Video
-* Providing a liquidity to ELP :movie_camera: [Your first sOLT-USDT pair with ELP](https://www.youtube.com/watch?v=kNI7olz8Olw&ab_channel=OneLedgerTechnologyInc.)
+Once the user has decided to reduce or discontinue LP activity, all tokens (sOLT and USDT) can easily be redeemed from the pool using the SLP tokens they received upon depositing funds. The user needs only to connect their wallet to the ELP page or Uniswap page, select the amount they wish to withdraw from the pool and execute the transaction. Details of how to withdraw can be found in the [tutorial video](https://www.youtube.com/watch?v=kNI7olz8Olw). The tokens will again appear in the user’s Ethereum wallet and, in the case of sOLT, can then be converted back to OLT using the Syndicate Bridge.
