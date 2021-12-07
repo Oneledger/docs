@@ -29,8 +29,15 @@ const sidebars = {
       items: [
         'develop/network-details/network',
         'develop/network-details/gas-token',
-        'develop/network-details/full-node-deployment',
-        'develop/network-details/validator-node-deployment',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Node Deployment',
+      items: [
+        'develop/node-deployment/full-node-deployment',
+        'develop/node-deployment/validator-node-deployment',
+        'develop/node-deployment/gcp-deployment',
       ],
     },
     {
@@ -102,7 +109,7 @@ const sidebars = {
     },
   ],
   elp: [
-    'elp/getting-started',
+    'elp/oneledger-liquidity-pool',
     'elp/tutorial',
     'elp/supported-pools',
   ],
