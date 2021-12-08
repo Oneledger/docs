@@ -1,5 +1,5 @@
 ---
-id: gcp-deployment
+id: gcp-validator-deployment
 title: GCP Validator Deployment
 description: Build your next blockchain app with OneLedger.
 keywords:

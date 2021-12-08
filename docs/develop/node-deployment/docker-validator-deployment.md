@@ -1,5 +1,5 @@
 ---
-id: validator-node-deployment
+id: docker-validator-deployment
 title: Docker Validator Deployment
 description: Build your next blockchain app with OneLedger.
 keywords:
