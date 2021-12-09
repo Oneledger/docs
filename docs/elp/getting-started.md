@@ -1,6 +1,6 @@
 ---
-id: oneledger-liquidity-pool
-title: Oneledger Liquidity Pool
+id: getting-started
+title: External Liquidity Pool
 description: Build your next blockchain app with OneLedger.
 keywords:
   - docs
@@ -11,7 +11,7 @@ image: https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/l
 
 **URL**: https://elp.oneledger.io
 
-The OneLedger Liquidity Pool refers to the **sOLT-USDT** trading pair on **Uniswap**, the highest volume decentralized exchange platform **(DEX)** in crypto. To incentivize liquidity for sOLT, an ERC-20 based version of the OneLedger Token (OLT), the Pool offers **rewards** to **Liquidity Providers (LPs)** in the form of transaction fees and additional reward mechanics. To participate, LPs must provide tokens to both sides of the pool **(sOLT and ERC-20 based USDT)** and can then add or withdraw funds at any time.
+The External Liquidity Pool refers to the **sOLT-USDT** trading pair on **Uniswap**, the highest volume decentralized exchange platform **(DEX)** in crypto. To incentivize liquidity for sOLT, an ERC-20 based version of the OneLedger Token (OLT), the Pool offers **rewards** to **Liquidity Providers (LPs)** in the form of transaction fees and additional reward mechanics. To participate, LPs must provide tokens to both sides of the pool **(sOLT and ERC-20 based USDT)** and can then add or withdraw funds at any time.
 
 The Liquidity Pool offers OLT holders a way to generate an ongoing yield on their holdings, while also creating long-term value for the OneLedger ecosystem by making OLT accessible to a larger user base.
 

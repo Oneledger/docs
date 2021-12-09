@@ -60,7 +60,7 @@ const config = {
             activeBasePath: 'docs/bridge',
           },
           {
-            to: 'docs/elp/oneledger-liquidity-pool',
+            to: 'docs/elp/getting-started',
             position: 'left',
             label: 'ELP',
             activeBasePath: 'docs/elp',

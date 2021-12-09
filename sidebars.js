@@ -109,7 +109,7 @@ const sidebars = {
     },
   ],
   elp: [
-    'elp/oneledger-liquidity-pool',
+    'elp/getting-started',
     'elp/tutorial',
     'elp/supported-pools',
   ],
