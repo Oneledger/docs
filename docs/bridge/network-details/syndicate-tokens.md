@@ -13,31 +13,29 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs
-defaultValue="mainnet"
+defaultValue="ethereum"
 values={[
-{ label: 'Mainnet', value: 'mainnet', },
-{ label: 'Testnet', value: 'testnet', },
+{ label: 'Ethereum', value: 'ethereum', },
+{ label: 'BSC', value: 'bsc', },
 ]
 }>
 
-<TabItem value="mainnet">
+<TabItem value="ethereum">
 
-## Mainnets
+## Ethereum
 
-| Symbol | Direction              | Donor                                                                                                                                                    | Syndicate                                                                                                             |
-|--------|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| OLT    | Ethereum | [0x0000000000000000000000000000000000000000](https://mainnet-explorer.oneledger.network/address/0x0000000000000000000000000000000000000000/transactions) | [0xBdE61AabC13B8419d4b72b74B254A1629858e026](https://etherscan.io/address/0xBdE61AabC13B8419d4b72b74B254A1629858e026) |
+| Symbol 	| Address                                                                                                               	|
+|--------	|-----------------------------------------------------------------------------------------------------------------------	|
+| sOLT   	| [0xBdE61AabC13B8419d4b72b74B254A1629858e026](https://etherscan.io/address/0xBdE61AabC13B8419d4b72b74B254A1629858e026) 	|
 </TabItem>
 
-<TabItem value="testnet">
+<TabItem value="bsc">
 
-## Testnets
+## BSC
 
-| Symbol | Direction                | Donor                                                                                                                                                         | Syndicate                                                                                                                                                     |
-|--------|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| OLT    | Ropsten | [0x0000000000000000000000000000000000000000](https://frankenstein-explorer.oneledger.network/address/0x0000000000000000000000000000000000000000/transactions) | [0xD1Ce90a514ac959A4857c01a2b8cA16a054525e7](https://ropsten.etherscan.io/address/0xD1Ce90a514ac959A4857c01a2b8cA16a054525e7)                                 |
-| USDT   | Frankenstein | [0x1B1aE5AD51979413C2023e29a1f3E10A09285285](https://ropsten.etherscan.io/address/0x1B1aE5AD51979413C2023e29a1f3E10A09285285)                                 | [0x110a13FC3efE6A245B50102D2d79B3E76125Ae83](https://frankenstein-explorer.oneledger.network/address/0x110a13FC3efE6A245B50102D2d79B3E76125Ae83/transactions) |
-| ETH    | Frankenstein | [0x0000000000000000000000000000000000000000](https://ropsten.etherscan.io/address/0x0000000000000000000000000000000000000000)                                 | [0x7C0C24Ccfd2799A9588888c333E9197AA2DBc97B](https://frankenstein-explorer.oneledger.network/address/0x7C0C24Ccfd2799A9588888c333E9197AA2DBc97B/transactions) |
+| Symbol 	| Address                                                                                                               	|
+|--------	|-----------------------------------------------------------------------------------------------------------------------	|
+| OLT   	| [0xd15FC148C332e4228209050c809C89047443CAcD](https://bscscan.com/address/0xd15FC148C332e4228209050c809C89047443CAcD) 	|
 </TabItem>
 
 </Tabs>
