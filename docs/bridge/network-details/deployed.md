@@ -17,8 +17,7 @@ defaultValue="oneledger"
 values={[
 { label: 'OneLedger', value: 'oneledger', },
 { label: 'Ethereum', value: 'ethereum', },
-{ label: 'Frankenstein', value: 'frankenstein', },
-{ label: 'Ropsten', value: 'ropsten', },
+{ label: 'BSC', value: 'bsc', },
 ]
 }>
 <TabItem value="oneledger">
@@ -43,9 +42,9 @@ values={[
 | BridgeRouter          	| <a target="_blank" href="https://raw.githubusercontent.com/oneledger/syndicate-contracts/master/deployments/ethereum/BridgeRouter_Implementation.json"><img src="https://img.icons8.com/metro/26/000000/download.png" width="25px" style={{padding: '2px'}} /></a>          	| [0x337882C0f263D457704Bd52c5741d43F71F316c0](https://etherscan.io/address/0x337882C0f263D457704Bd52c5741d43F71F316c0#readProxyContract) 	|
 </TabItem>
 
-<TabItem value="frankenstein">
+<TabItem value="bsc">
 
-## BSC
+## BSC Mainnet
 
 | Contract              	| ABI                                                                                                                                                                                                                                                                    	| Address                                                                                                                                                       	|
 |-----------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------	|
