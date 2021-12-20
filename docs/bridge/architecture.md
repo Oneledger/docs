@@ -10,7 +10,7 @@ image: https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/l
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-## Syndicate bridge
+## Syndicate Bridge
 
 **URL**: https://syndicate-bridge.oneledger.network
 

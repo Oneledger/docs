@@ -63,8 +63,8 @@ const sidebars = {
           type: "category",
           label: "OneWallet",
           items: [
-            "develop/Onewallet/hello",
-            "develop/Onewallet/restore-onewallet",
+            "develop/onewallet/hello",
+            "develop/onewallet/restore-onewallet",
           ],
         },
         {
