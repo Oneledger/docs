@@ -19,7 +19,7 @@ Syndicate bridge is a blockchain application that provides a transition of token
 Architecturally, the beauty of Syndicate bridge is its simple, straightforward design which features a fast, cheap transactions for the token transfering between EVM chains.
 
 ### Tutorial
-* Bridge interaction :movie_camera: [Your first Syndicate OLT](https://www.youtube.com/watch?v=i8dzjRESejA&ab_channel=OneLedgerTechnologyInc.)
+* Bridge interaction :movie_camera: [Your first Syndicate OLT](https://www.youtube.com/watch?v=QbwyrOEwiuU)
 
 ### Comparison chart between another bridge implementations (with Ethereum)
 

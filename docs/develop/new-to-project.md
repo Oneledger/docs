@@ -21,7 +21,7 @@ image: https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/l
 
 * Deploy your Contracts on OneLedger
 :movie_camera: [Your first DApp](https://www.youtube.com/watch?v=KOsYWy4z3_k)
-* Bridge interaction :movie_camera: [Your first Syndicate OLT](https://www.youtube.com/watch?v=i8dzjRESejA&ab_channel=OneLedgerTechnologyInc.)
+* Bridge interaction :movie_camera: [Your first Syndicate OLT](https://www.youtube.com/watch?v=QbwyrOEwiuU)
 
 ### Types of Interaction on Syndicate bridge
 
