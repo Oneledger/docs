@@ -18,11 +18,12 @@ values={[
 { label: 'OneLedger', value: 'oneledger', },
 { label: 'Ethereum', value: 'ethereum', },
 { label: 'BSC', value: 'bsc', },
+{ label: 'Polygon', value: 'polygon', },
 ]
 }>
 <TabItem value="oneledger">
 
-## OneLedger Mainnet
+## OneLedger
 
 | Contract              	| ABI                                                                                                                                                                                                                                                                 	| Address                                                                                                                                                  	|
 |-----------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------	|
@@ -33,7 +34,7 @@ values={[
 
 <TabItem value="ethereum">
 
-## Ethereum Mainnet
+## Ethereum
 
 | Contract              	| ABI                                                                                                                                                                                                                                                          	| Address                                                                                                                                 	|
 |-----------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------	|
@@ -44,13 +45,24 @@ values={[
 
 <TabItem value="bsc">
 
-## BSC Mainnet
+## BSC
 
 | Contract              	| ABI                                                                                                                                                                                                                                                                    	| Address                                                                                                                                                       	|
 |-----------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | BridgeTokenManager    	| <a target="_blank" href="https://raw.githubusercontent.com/oneledger/syndicate-contracts/master/deployments/frankenstein/BridgeTokenManager.json"><img src="https://img.icons8.com/metro/26/000000/download.png" width="25px" style={{padding: '2px'}} /></a>          	| [0x9D0a172D0F0859a45E109b79088AF0574e03C334](https://bscscan.com/address/0x9D0a172D0F0859a45E109b79088AF0574e03C334#code) 	|
 | BridgeCosignerManager 	| <a target="_blank" href="https://raw.githubusercontent.com/oneledger/syndicate-contracts/master/deployments/frankenstein/BridgeCosignerManager.json"><img src="https://img.icons8.com/metro/26/000000/download.png" width="25px" style={{padding: '2px'}} /></a>       	| [0x27c18609D2325a2BF7912861b8b7Cff0e102bE3F](https://bscscan.com/address/0x27c18609D2325a2BF7912861b8b7Cff0e102bE3F#code) 	|
 | BridgeRouter          	| <a target="_blank" href="https://raw.githubusercontent.com/oneledger/syndicate-contracts/master/deployments/frankenstein/BridgeRouter_Implementation.json"><img src="https://img.icons8.com/metro/26/000000/download.png" width="25px" style={{padding: '2px'}} /></a> 	| [0x309bdec69FB76861192bFD56dbEC1212a4D3B191](https://bscscan.com/address/0x309bdec69FB76861192bFD56dbEC1212a4D3B191#readProxyContract) 	|
+</TabItem>
+
+<TabItem value="bsc">
+
+## Polygon
+
+| Contract              	| ABI                                                                                                                                                                                                                                                                    	| Address                                                                                                                                                       	|
+|-----------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| BridgeTokenManager    	| <a target="_blank" href="https://raw.githubusercontent.com/oneledger/syndicate-contracts/master/deployments/polygon/BridgeTokenManager.json"><img src="https://img.icons8.com/metro/26/000000/download.png" width="25px" style={{padding: '2px'}} /></a>          	| [0xd46B88d2C1f6cf233fF1187308e933260FE84395](https://polygonscan.com/address/0xd46B88d2C1f6cf233fF1187308e933260FE84395#code) 	|
+| BridgeCosignerManager 	| <a target="_blank" href="https://raw.githubusercontent.com/oneledger/syndicate-contracts/master/deployments/polygon/BridgeCosignerManager.json"><img src="https://img.icons8.com/metro/26/000000/download.png" width="25px" style={{padding: '2px'}} /></a>       	| [0xd93CAc3de4215C5B7d2778B1732BAF7Ce1ab253C](https://polygonscan.com/address/0xd93CAc3de4215C5B7d2778B1732BAF7Ce1ab253C#code) 	|
+| BridgeRouter          	| <a target="_blank" href="https://raw.githubusercontent.com/oneledger/syndicate-contracts/master/deployments/polygon/BridgeRouter_Implementation.json"><img src="https://img.icons8.com/metro/26/000000/download.png" width="25px" style={{padding: '2px'}} /></a> 	| [0xCf44918f615C3De017bc85EC0232b410C914b52a](https://polygonscan.com/address/0xCf44918f615C3De017bc85EC0232b410C914b52a#readProxyContract) 	|
 </TabItem>
 
 </Tabs>
