@@ -54,7 +54,7 @@ values={[
 | BridgeRouter          	| <a target="_blank" href="https://raw.githubusercontent.com/oneledger/syndicate-contracts/master/deployments/frankenstein/BridgeRouter_Implementation.json"><img src="https://img.icons8.com/metro/26/000000/download.png" width="25px" style={{padding: '2px'}} /></a> 	| [0x309bdec69FB76861192bFD56dbEC1212a4D3B191](https://bscscan.com/address/0x309bdec69FB76861192bFD56dbEC1212a4D3B191#readProxyContract) 	|
 </TabItem>
 
-<TabItem value="bsc">
+<TabItem value="polygon">
 
 ## Polygon
 
