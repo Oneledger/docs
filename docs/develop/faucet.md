@@ -31,7 +31,7 @@ There are two ways to mint testnet OLT:
 
 <TabItem value="oneledger">
 
-In order to mint OLT using CLI (Command Line Interface) first you have to setup [Frankenstein-Testnet](/docs/develop/network-details/full-node-deployment) fullnode and run below command. (Note: Please provide the address you want to mint tokens)
+In order to mint OLT using CLI (Command Line Interface) first you have to setup [Frankenstein-Testnet](/docs/develop/node-deployment/full-node-deployment) fullnode and run below command. (Note: Please provide the address you want to mint tokens)
 
 ```js
 docker-compose exec olfullnode sh -c "curl -X POST -H "Accept: application/json" -H "Content-Type: application/json" https://fullnode-faucet.oneledger.network/jsonrpc -d '{"id": "test", "jsonrpc": "2.0", "method": "faucet.RequestOLT", "params": {"address":"deadbeefdeadbeefdeadbeefdeadbeefdeadbeef", "amount":50}}'"
