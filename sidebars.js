@@ -107,6 +107,13 @@ const sidebars = {
         'bridge/network-details/syndicate-tokens',
       ],
     },
+      {
+        type: 'category',
+        label: 'Lost Transaction',
+        items: [
+          'bridge/lost-transaction',
+        ],
+      },
   ],
   elp: [
     'elp/getting-started',
