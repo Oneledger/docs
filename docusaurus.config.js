@@ -94,6 +94,19 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Learn',
+            items: [
+              {
+                label: 'Whitepaper',
+                href: 'https://blog.oneledger.io/hubfs/Website/Whitepaper/oneledger-whitepaper.en.pdf',
+              },
+              {
+                label: 'Tokenomics',
+                href: 'https://blog.oneledger.io/hubfs/Website/Tokenomics/Tokenomics.pdf',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} OneLedger, Inc.`,
       },
