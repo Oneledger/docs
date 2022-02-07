@@ -47,7 +47,7 @@ To create Metamask wallet and Configure Oneledger on metamask please follow [thi
     Content :
 
     ```js
-    {"txn_hash":"PASTE_TRANSACTION_ID","source_chain_id":4216137055,"target_chain_id":3}
+    {"tx_hash": "PASTE_TRANSACTION_ID","source_chain_id": 4216137055,"target_chain_id": 3}
     ```
     (**Note:** Here "source_chain_id" is Frankenstein Testnet ID and "target_chain_id" is Ropsten Testnet ID. If it is on Mainnet you should choose the right chain ID's. Get the chain ID's list [here](https://chainlist.org/))
 
