@@ -1,6 +1,6 @@
 ---
-id: gcp-validator-deployment
-title: GCP Validator Deployment
+id: do-validator-deployment
+title: Digital Ocean Validator Deployment
 description: Build your next blockchain app with OneLedger.
 keywords:
   - docs
@@ -21,41 +21,28 @@ Remeber to store a **password** in secret place!!!
 
 ## Pre-requisites
 
-Create an account in Google Cloud Platform by clicking [here](https://console.cloud.google.com/)
+Create an account in Digital Ocean by clicking [here](https://www.digitalocean.com/)
 
-## GCP Marketplace Image
+## Digital Ocean Marketplace Image
 
-1. Run a node on Google Cloud Marketplace now by clicking [here](https://console.cloud.google.com/marketplace/details/chronos-225820/oneledger-mainnet-kratos-node?q=oneledger&id=089656f4-5edb-4c56-8628-9b1839f5b1ba).
+1. Run a node on Digital Ocean Marketplace now by clicking [here](https://marketplace.digitalocean.com/apps/mainnet-fullnode).
 
-2. Click on Launch and deploy OneLedger Mainnet Fullnode.
+2. Click on Create Mainnet Fullnode Droplet and deploy OneLedger Mainnet Fullnode.<br/><br/>
 
-```js
-* Choose the name from your OneLedger instance 
-* Choose a machine type with suggested configurations
-* You can choose a zone which costs you less money and keep all other fields set to default values
-* Click Deploy
-```
+<img src={useBaseUrl("img/do/do-marketplace.png")} /><br/><br/>
 
-<img src={useBaseUrl("img/gcp/deploy-page.png")} /><br/><br/>
+3. Choose a machine type with suggested configurations and create droplet.<br/><br/>
 
-3. Now you are up and running. Click on SSH to run your node.<br/><br/>
+<img src={useBaseUrl("img/do/machine-config.png")} /><br/><br/>
 
-<img src={useBaseUrl("img/gcp/fullnode-deploy.png")} /><br/><br/>
-
-4. You will be opened with a terminal, To Check Fullnode status run below commands.
-
-  `cd $OLDATA`
-
-  `sudo olfullnode status`
-
-  the result should be similar to below:
+4. Now connect to droplet :
 
   ```js
-  2020/12/14 20:05:31 Profiling listen to: [::]:41721
-  RPC Port: 26604 on 10.168.0.5  ✓
-  P2P Port: 26605 on 10.168.0.5  ✓
-  SDK Port: 26606 on 10.168.0.5  ✓
-  ✓ Looks all good ✓
+  Connect to machine via SSH: ssh root@your_droplet_public_ipv4
+
+  Go to data directory: cd $OLDATA
+
+  Initialize Fullnode: /usr/local/bin/fullnodeStartup
   ```
 
 5. Validate node status

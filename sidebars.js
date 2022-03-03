@@ -38,6 +38,7 @@ const sidebars = {
         'develop/node-deployment/full-node-deployment',
         'develop/node-deployment/docker-validator-deployment',
         'develop/node-deployment/gcp-validator-deployment',
+        'develop/node-deployment/do-validator-deployment',
       ],
     },
     {
