@@ -106,5 +106,5 @@ Remeber to store a **password** in secret place!!!
 </Tabs>
 
 :::info
-In case of permission denied during docker commands use **sudo** at the begining
+In case of permission denied during docker commands use **sudo** at the beginning
 :::
