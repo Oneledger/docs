@@ -79,6 +79,7 @@ const sidebars = {
         },
       ],
     },
+    'develop/transfer-olt-between-accounts',
     'develop/faq',
   ],
   bridge: [
