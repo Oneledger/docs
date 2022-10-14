@@ -52,8 +52,9 @@ const sidebars = {
       type: "category",
       label: "Tools",
       items: [
-        'develop/bolos',
-        'develop/faucet',
+        'develop/tools/bolos',
+        'develop/tools/faucet',
+        'develop/tools/proposal',
       ],
     },
     {
@@ -109,13 +110,13 @@ const sidebars = {
         'bridge/network-details/syndicate-tokens',
       ],
     },
-      {
-        type: 'category',
-        label: 'Lost Transaction',
-        items: [
-          'bridge/lost-transaction',
-        ],
-      },
+    {
+      type: 'category',
+      label: 'Lost Transaction',
+      items: [
+        'bridge/lost-transaction',
+      ],
+    },
   ],
   elp: [
     'elp/getting-started',
