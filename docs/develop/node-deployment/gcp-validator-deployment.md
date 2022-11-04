@@ -44,9 +44,11 @@ Create an account in Google Cloud Platform by clicking [here](https://console.cl
 
 4. You will be opened with a terminal, To Check Fullnode status run below commands.
 
-  `cd $OLDATA`
+  Go to data directory: `cd $OLDATA`
 
-  `sudo olfullnode status`
+  Initialize Fullnode: `sudo /usr/local/bin/fullnodeStartup`
+
+  Run: `sudo olfullnode status`
 
   the result should be similar to below:
 
